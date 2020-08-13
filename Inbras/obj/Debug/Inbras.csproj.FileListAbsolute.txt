@@ -1,0 +1,15 @@
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\bin\Debug\Inbras.exe.config
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\bin\Debug\Inbras.exe
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\bin\Debug\Inbras.pdb
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\Inbras.csprojResolveAssemblyReference.cache
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\View\MainWindow.g.cs
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\App.g.cs
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\Inbras_MarkupCompile.cache
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\Inbras_MarkupCompile.lref
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\View\MainWindow.baml
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\Inbras.g.resources
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\Inbras.Properties.Resources.resources
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\Inbras.csproj.GenerateResource.Cache
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\Inbras.exe
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\Inbras.pdb
+c:\users\dragv\documents\visual studio 2017\Projects\Inbras\Inbras\obj\Debug\GeneratedInternalTypeHelper.g.cs
